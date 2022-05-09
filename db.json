@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "name": "Peter Bal",
+      "email": "peter@gmail.com",
+      "address": "Malta",
+      "phone": "9874567890"
+    },
+    {
+      "id": 3,
+      "name": "Amy ma",
+      "email": "amy@gmail.com",
+      "address": "Canada",
+      "phone": "6543567890"
+    },
+    {
+      "name": "Melina kutty",
+      "email": "melina@gold.com",
+      "address": "India",
+      "phone": "8527419632",
+      "id": 4
+    },
+    {
+      "name": "Thiyaga Sir",
+      "email": "Thiyaga@sir.com",
+      "address": "Aus",
+      "phone": "852937413",
+      "id": 5
+    },
+    {
+      "name": "Thiyaga.195@gmail.com",
+      "email": "Thiyaga.195@gmail.com",
+      "address": "Bangalore",
+      "phone": "+919380842109",
+      "id": 6
+    },
+    {
+      "name": "Thiyaga.195@gmail.com",
+      "email": "Thiyaga.195@gmail.com",
+      "address": "Bangalore",
+      "phone": "+919380842109",
+      "id": 7
+    },
+    {
+      "name": "Thiyaga.195@gmail.com",
+      "email": "Thiyaga.195@gmail.com",
+      "address": "Bangalore",
+      "phone": "+919380842109",
+      "id": 8
+    }
+  ]
+}
